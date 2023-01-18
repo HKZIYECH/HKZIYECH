@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding,Programming,Football,Aviation
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Making an app for my school
-- 📫 How to reach me instagram @_.sofonias , telegram @arrizaballager
+- 📫 How to reach me instagram @sofoniaas , telegram @arrizaballager
 
 <!---
 HKZIYECH/HKZIYECH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
