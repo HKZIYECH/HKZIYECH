@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sofonias Alemayehu</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
-<img align="right" alt="Kai Havertz" width=400 src= "https://giphy.com/gifs/playsports-celebrating-premier-league-play-sports-jSQ5ayTvzbsweE7y4s">
+<iframe src="https://giphy.com/embed/jSQ5ayTvzbsweE7y4s" width="400" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/playsports-celebrating-premier-league-play-sports-jSQ5ayTvzbsweE7y4s">via GIPHY</a></p>
 
 <p align="left"> <a href="https://twitter.com/yungmykhalio" target="blank"><img src="https://img.shields.io/twitter/follow/yungmykhalio?logo=twitter&style=for-the-badge" alt="yungmykhalio" /></a> </p>
 
