@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/yungmykhalio" target="blank"><img src="https://img.shields.io/twitter/follow/yungmykhalio?logo=twitter&style=for-the-badge" alt="yungmykhalio" /></a> </p>
 
-- 🔭 I’m currently working on **mastering Python**
+- 🔭 I’m currently working on **Full Stack Web Development**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Figma**
 
-- 👯 I’m looking to collaborate on **a mobile app**
+- 👯 I’m looking to collaborate on **a web app**
 
-- 🤝 I’m looking for help with **a mobile app for my school**
+- 🤝 I’m looking for help with **Django**
 
-- 💬 Ask me about **HTML**
+- 💬 Ask me about **HTML, CSS and Figma**
 
 - 📫 How to reach me **sofonias.alemayehu.andinet3@gmail.com**
 
@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/yungmykhaylo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yungmykhalio" height="30" width="40" /></a>
+<a href="https://twitter.com/CFCTrevv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yungmykhalio" height="30" width="40" /></a>
 <a href="https://instagram.com/sofoniaas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sofoniaas" height="30" width="40" /></a>
 </p>
 
