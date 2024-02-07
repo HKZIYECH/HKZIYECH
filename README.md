@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hkziyech" alt="hkziyech" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/yungmykhalio" target="blank"><img src="https://img.shields.io/twitter/follow/yungmykhalio?logo=twitter&style=for-the-badge" alt="yungmykhalio" /></a> </p>
+<p align="left"> <a href="https://twitter.com/CFCTrevv" target="blank"><img src="https://img.shields.io/twitter/follow/yungmykhalio?logo=twitter&style=for-the-badge" alt="yungmykhalio" /></a> </p>
 
 - 🔭 I’m currently working on **Full Stack Web Development**
 
-- 🌱 I’m currently learning **Figma**
+- 🌱 I’m currently practicing advanced **CSS**
 
 - 👯 I’m looking to collaborate on **a web app**
 
-- 🤝 I’m looking for help with **Django**
+- 🤝 I’m looking for help with **CSS Grid**
 
 - 💬 Ask me about **HTML, CSS and Figma**
 
