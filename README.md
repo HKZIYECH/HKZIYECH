@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hkziyech&label=Profile%20views&color=0e75b6&style=flat" alt="hkziyech" /> </p>
+![tumblr_7ad5d572c7b9abdb270bab79c4086db1_4a91b73d_1280](https://github.com/HKZIYECH/HKZIYECH/assets/87647912/dce8be4f-5755-4e27-b36a-3617b557fab8)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hkziyech" alt="hkziyech" /></a> </p>
 
