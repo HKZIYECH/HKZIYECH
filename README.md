@@ -1,7 +1,6 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://64.media.tumblr.com/7ad5d572c7b9abdb270bab79c4086db1/c59637d5245d0bbe-de/s540x810/9a81ed101cad31358741d073412c4b06ac307b85.gif))]
 <h1 align="center">Hi 👋, I'm Sofonias Alemayehu</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
-<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/7ad5d572c7b9abdb270bab79c4086db1/c59637d5245d0bbe-de/s540x810/9a81ed101cad31358741d073412c4b06ac307b85.gif">
+<img align="right" alt="Coding" width="400" src="https://glimmerofawesome.tumblr.com/post/731812163665215488">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hkziyech&label=Profile%20views&color=0e75b6&style=flat" alt="hkziyech" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hkziyech" alt="hkziyech" /></a> </p>
