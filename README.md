@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://64.media.tumblr.com/7ad5d572c7b9abdb270bab79c4086db1/c59637d5245d0bbe-de/s540x810/9a81ed101cad31358741d073412c4b06ac307b85.gif))](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://64.media.tumblr.com/7ad5d572c7b9abdb270bab79c4086db1/c59637d5245d0bbe-de/s540x810/9a81ed101cad31358741d073412c4b06ac307b85.gif))]
 <h1 align="center">Hi 👋, I'm Sofonias Alemayehu</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/7ad5d572c7b9abdb270bab79c4086db1/c59637d5245d0bbe-de/s540x810/9a81ed101cad31358741d073412c4b06ac307b85.gif">
