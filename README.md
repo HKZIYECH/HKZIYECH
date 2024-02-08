@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sofonias Alemayehu</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
-<img align="right" alt="Mudryk" width="400" src="https://64.media.tumblr.com/ed6b8a2028ca661fb474654841dc0116/972dc868b938f1a2-43/s1280x1920/782c9f64dfe64f40fe0e0e25a742196de0b0c3c2.gif">
+<div class="tenor-gif-embed" data-postid="3141416545097181012" data-share-method="host" data-aspect-ratio="1.43931" data-width="100%"><a href="https://tenor.com/view/cole-palmer-cfc-chelsea-fc-knee-slide-celebration-gif-3141416545097181012">Cole Palmer Cfc GIF</a>from <a href="https://tenor.com/search/cole+palmer-gifs">Cole Palmer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hkziyech&label=Profile%20views&color=0e75b6&style=flat" alt="hkziyech" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hkziyech" alt="hkziyech" /></a> </p>
