@@ -2,9 +2,6 @@
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hkziyech&label=Profile%20views&color=0e75b6&style=flat" alt="hkziyech" /> </p>
-![tumblr_7ad5d572c7b9abdb270bab79c4086db1_4a91b73d_1280](https://github.com/HKZIYECH/HKZIYECH/assets/87647912/dce8be4f-5755-4e27-b36a-3617b557fab8)
-![tumblr_ed6b8a2028ca661fb474654841dc0116_782c9f64_1280](https://github.com/HKZIYECH/HKZIYECH/assets/87647912/eff2e1a2-5094-4f2f-9e8b-b20eee7cc883)
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hkziyech" alt="hkziyech" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/CFCTrevv" target="blank"><img src="https://img.shields.io/twitter/follow/yungmykhalio?logo=twitter&style=for-the-badge" alt="yungmykhalio" /></a> </p>
