@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hkziyech&label=Profile%20views&color=0e75b6&style=flat" alt="hkziyech" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hkziyech" alt="hkziyech" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/CFCTrevv" target="blank"><img src="https://img.shields.io/twitter/follow/yungmykhalio?logo=twitter&style=for-the-badge" alt="yungmykhalio" /></a> </p>
 
 - 🔭 I’m currently working on Full Stack Web Development
 
@@ -16,7 +15,7 @@
 
 - 💬 Ask me about HTML, CSS and Figma
 
-- 📫 How to reach me sofonias.alemayehu.andinet3@gmail.com
+- 📫 How to reach me sofonias.alemayehu111@gmail.com
 
 - ⚡️ Fun fact Chelsea is the biggest club in the world
 
